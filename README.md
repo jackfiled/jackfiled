@@ -5,13 +5,6 @@
 - Interested in almost everything related to Computer
 - English and Chinese are both ok
 
-#### Programing language 💻
-
-- Prefer to use ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp)
-- Use ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C) and ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B) to solve `leetcode` problems
-- Now I'm trying to learn `Java` and `Typescript`
-- and some other languages learned just for fun, such as ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go) and ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-
 #### How to reach me 📫
 
 -  Email: [shicangjuner@outlook.com](mailto:shicangjuner@outlook.com)
@@ -34,10 +27,14 @@
 #### Programming 💪
 
 ![CSharp Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp)
+![Static Badge](https://img.shields.io/badge/Dotnet-512BD4?logo=dotnet)
+![Static Badge](https://img.shields.io/badge/ASP.net-512BD4?logo=dotnet)
 ![Static Badge](https://img.shields.io/badge/Blazor-512BD4?logo=blazor)
 ![C Badge](https://img.shields.io/badge/C-555555?logo=c&logoColor=fff&style=flat)
 ![CPP Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![Static Badge](https://img.shields.io/badge/GO-FAFAFA?logo=go)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-FAFAFA?logo=postgresql)
+
 
 #### Tools 🧰
 
